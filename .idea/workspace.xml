@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,7 +28,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -46,6 +46,11 @@
               <item name="old-boys-python-15" type="b2602c69:ProjectViewProjectNode" />
               <item name="old-boys-python-15" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="old-boys-python-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="old-boys-python-15" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -55,17 +60,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day10" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day10" />
       <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day09" />
       <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day08" />
       <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day07" />
       <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day06" />
-      <recent name="C:\Users\microease\Documents\GitHub\old-boys-python-15\day05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,16 +132,17 @@
       <workItem from="1557066353017" duration="2574000" />
       <workItem from="1557075248292" duration="855000" />
       <workItem from="1557156225912" duration="372000" />
+      <workItem from="1558182711716" duration="861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11535000" />
+    <option name="totallyTimeSpent" value="12396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12579957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
