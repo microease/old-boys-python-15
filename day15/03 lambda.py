@@ -8,10 +8,12 @@
 # # print(ret)
 # #
 # # # 匿名函数, 语法: lambda 参数: 返回值
-# a = lambda n : n * n
+# a = lambda n: n * n
 # # ret = a(9)
 # # print(ret)
-# b = lambda x: x+1
+# x = 1
+#
+# b = lambda x: x + 1
 
 # print(a(5)) # 函数的名字可以认为是a
 #
