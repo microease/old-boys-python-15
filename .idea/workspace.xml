@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd132193-777b-4f73-b61b-3bda8a494808" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day16/0.讲在课前.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/1.内容回顾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/2.今日内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/3.正则表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/4.总结.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/1.内容回顾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/2.今日内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/3.re模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/4.分组在re模块中的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/5.5 预备知识.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/5.使用正则表达式的技巧.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/6.爬虫实例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/7.计算器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/move_info7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/03 lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/day15/03 lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/04 函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/day15/04 函数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -37,10 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\old-boys-python-15" />
+      <recent name="D:\Github\old-boys-python-15\day16" />
       <recent name="D:\Github\old-boys-python-15\day15" />
       <recent name="D:\Github\old-boys-python-15\day14" />
       <recent name="D:\Github\old-boys-python-15\day13" />
-      <recent name="D:\Github\old-boys-python-15\day12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,6 +211,7 @@
       <workItem from="1573734945340" duration="1763000" />
       <workItem from="1573736725892" duration="675000" />
       <workItem from="1573740910671" duration="2772000" />
+      <workItem from="1573745676738" duration="1252000" />
     </task>
     <servers />
   </component>
