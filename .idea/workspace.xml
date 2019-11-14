@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd132193-777b-4f73-b61b-3bda8a494808" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day13/01 今日主要内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/02 生成器函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/03 推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/04 生成器表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/01 今日内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/02 作业讲解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/03 内置函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/14.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/old-boys-python-15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/old-boys-python-15.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,16 +33,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QEvqchdB8LHmpjLZES8lCdyPBc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day15" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\old-boys-python-15\day14" />
+      <recent name="D:\Github\old-boys-python-15\day13" />
       <recent name="D:\Github\old-boys-python-15\day12" />
     </key>
   </component>
@@ -46,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_昨日作业">
+  <component name="RunManager" selected="Python.02 生成器函数">
     <configuration name="01_昨日作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="old-boys-python-15" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +79,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/01_昨日作业.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02 生成器函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old-boys-python-15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/02 生成器函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="old-boys-python-15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,6 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02 生成器函数" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.01_昨日作业" />
         <item itemvalue="Python.test" />
       </list>
@@ -114,6 +178,9 @@
       <workItem from="1573634848400" duration="1466000" />
       <workItem from="1573710512154" duration="4104000" />
       <workItem from="1573725899081" duration="22000" />
+      <workItem from="1573734945340" duration="1763000" />
+      <workItem from="1573736725892" duration="675000" />
+      <workItem from="1573740910671" duration="1418000" />
     </task>
     <servers />
   </component>
@@ -135,6 +202,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/old_boys_python_15$test.coverage" NAME="test Coverage Results" MODIFIED="1558759217059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/old_boys_python_15$02_.coverage" NAME="02 生成器函数 Coverage Results" MODIFIED="1573736356159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/old_boys_python_15$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1573736175439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
     <SUITE FILE_PATH="coverage/old_boys_python_15$01_.coverage" NAME="01_昨日作业 Coverage Results" MODIFIED="1573711091644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
   </component>
 </project>
