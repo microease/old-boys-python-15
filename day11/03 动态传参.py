@@ -54,7 +54,7 @@
 
 # 接收所有参数
 # def func(*args, **kwargs):# 无敌 *args相当于一个聚合的作用
-    print(args, kwargs)
+#     print(args, kwargs)
 #
 # func(1,2,3,4,5,a=6,b=7,c=9)
 
