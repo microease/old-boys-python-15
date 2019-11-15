@@ -2,83 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd132193-777b-4f73-b61b-3bda8a494808" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day18/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/2.本周安排和今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/3.random模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/4.时间模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/5.sys模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/6.os模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/3.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/4.os模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/5.os精讲.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/6.序列化模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/7.json模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/8.pickle模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/json_file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/pickle_file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/3.作业题目讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/4.异常处理基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/5.异常处理其他.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/6.计算器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/userinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/.idea/day21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/3.模块的导入_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/4.模块的导入_fromimport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/5模块的循环引用/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/5模块的循环引用/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/5模块的循环引用/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/6.模块的加载与修改.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/7.把模块当成脚本来使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/8.模块搜索路径.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/9.包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/api/policy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/api/versions(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/cmd/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/api/policy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/api/versions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/cmd/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/bbbbb/glance2/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/calculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/.idea/my_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/bin/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/conf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/conf/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/core/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/core/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staff_info.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -271,7 +194,7 @@
       <workItem from="1573734945340" duration="1763000" />
       <workItem from="1573736725892" duration="675000" />
       <workItem from="1573740910671" duration="2772000" />
-      <workItem from="1573745676738" duration="2974000" />
+      <workItem from="1573745676738" duration="3571000" />
     </task>
     <servers />
   </component>
